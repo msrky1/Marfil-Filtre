@@ -1,0 +1,197 @@
+{
+    "welcome" : "Bienvenue",
+    "anasayfa"  : "Maison",
+    "siteadi" : "Efsane Mutfak Gereçleri",
+    "haklarisaklidir" :"Tous droits réservés",
+
+    "kurumsal" : "entreprise" ,
+    "hakkimizda" : "À propos de nous",
+    "misyon" : "Mission",
+    "vizyon" : "vision",
+    "kunye" : "Identité d'entreprise" ,
+
+    "müsterihizmetleri" : "Service client",
+    "bakim" : "Entretien et instructions",
+    "sikayet": "plainte",
+    "garanti": "garantie",
+    "istek" : "Demande client",
+
+    "kalite" : "Qualité",
+    "kalitebelgeleri" : "Marfil Filter adopte des certificats de qualité tels que ISO/TS16949:2009 - TSE - CE - comme principe dans le domaine de la production et du marketing, principalement en santé et sécurité au travail, afin de disposer d'une infrastructure solide et stable avec une qualité de produit, bonne après -Compréhension du service de vente. Il continue. Stable et en développement rapide, essayant de refléter son succès dans le réseau de marketing national sur le marché d'outre-mer, il sert également dans ce domaine, en particulier en Europe, en Afrique du Nord, au Moyen-Orient, en Asie du Sud-Est. Notre L'entreprise produit sous notre propre marque MARFIL Elle a l'expérience et l'infrastructure pour produire sous le nom de ses propres marques pour nos clients en montrant l'importance des marques des autres entreprises avec lesquelles nous travaillons.",
+
+
+
+    "medya": "Média",
+    "ekatalog" : "E-Catalogue",
+
+
+
+
+
+
+    "urunler" : "Produits",
+
+
+
+    "iletisim" : "Contact",
+    "iletisimuzun" : "Nous contacter",
+    "linkler" : "Liens",
+    "sosyallink" : "Comptes sociaux",
+
+
+    "hakkimizdakisa" : "Marfil Filter adopte des certificats de qualité tels que ISO/TS16949:2009 - TSE - CE - comme principe dans le domaine de la production et du marketing, principalement en santé et sécurité au travail, afin de disposer d'une infrastructure solide et stable avec une qualité de produit, bonne après -Compréhension du service de vente.En essayant de refléter son succès dans le réseau de commercialisation national, qui est stable et en développement rapide, sur le marché d'outre-mer, il dessert également le marché européen, ainsi que l'Afrique du Nord, le Moyen-Orient et l'Asie du Sud-Est.",
+       "hakkimizdauzun" : "Marfil a été créé en 2002 à Kahramanmaraş, en Turquie. En 2020, la société de fabrication sous contrat, la recherche de produits, la coproduction et le développement, le marketing national et l'exportation filtrés en collectant la marque Marfil en 2020, ce magasin est l'un des rares fabricants à Turquie. , Marfil Filter dispose d'une équipe d'utilisateurs, d'une compréhension de gestion mature, d'équipements avancés et de haute technologie. Principaux produits (filtre automobile), filtre à carburant, filtre à huile, filtre à air, filtre d'habitacle, groupe de filtres " ,
+         "baslatilmatarihi" : "Ağustos Ayında Başlatıldı",
+         "urunsayısı" : "Ürün Güçlerimiz",
+         "musterilerehizmet" : "Müşterilere Hizmet",
+         "elyapımı" : "El Yapımı Ürün",
+
+
+
+
+  "misyonyazisi" : "Kalite, Güvenilirlik ve Mennuniyet bizim önceliğimizdir. Müşterilerimizin mennuniyeti için sürekli kendimizi geliştirmekteyiz.",
+
+  "vizyonyazisi" : "Müşteri Mennuniyeti İçin Sürekli Kendimizi Geliştirerek Türkiye'de ve Dünya Ülkelerinde Aktif Rol Oynamak",
+
+  "teklif" : "Fiyat ve Teklif Almak İçin İletişime Geçin",
+  "teklifkisa" : "Teklif Al",
+
+
+
+
+  "gozat" : "Contact pour le prix et l'offre",
+
+
+
+    "telifhakki" : "Copyrights réservés" ,
+
+
+
+
+
+    "adiniz" : "votre nom",
+    "mailadresiniz": "Votre adresse e-mail" ,
+
+    "telefonnumarasi" : "Entrez un numéro de téléphone",
+
+    "konu" : "Sujet" ,
+     "aciklama" : "Entrez la description",
+     "adres": "adresse",
+
+     "gonder": "Envoyer",
+
+
+
+
+
+     "sikayetaciklama" : "Ecrivez-nous vos réclamations" ,
+
+     "sikayet1" : "Ecrivez-nous votre plainte en détail" ,
+
+
+
+
+     "istek1" : "Vous pouvez faire une demande pour obtenir un prix ou autre.",
+
+     "istek2" : "Ecrivez vos demandes" ,
+
+
+
+     "ekataloghazirlanmakta"  : "Le catalogue électronique est en cours de préparation." ,
+
+
+     "garanti1" : "Couverture garantie du produit" ,
+     "garanti2" : "La période de garantie du produit est de 2 ans ",
+
+     "garanti3" : "Ürürün Garanti Süresi 2 Yıldır." ,
+
+
+
+     "teklifal" : "Obtenir une offre",
+
+     "teklifal2" : "Entrez correctement le nom du produit pour obtenir un devis" ,
+
+     "urunadi" :  "Entrez le nom du produit" ,
+
+     "basararili" : "Réussi !" ,
+
+     "basarili2" : "Votre message a été envoyé. Sera de retour dès que possible." ,
+
+
+
+     "incele" : "Review" ,
+
+
+     "urundetay" : "Détail du produit" ,
+
+
+
+     "urunadi1" : "Nom du produit" ,
+
+     "urunmodeli" : "Product Model" ,
+
+     "kategori" : "Catégorie" ,
+
+
+     "paylas" : "Partage" ,
+
+
+     "kodu" : "Kodu" ,
+
+     "olculer" : "Ölçüler" ,
+
+     "kapasite" : "Kapasite" ,
+
+     "koliici" : "Koli İçi"  ,
+
+
+
+     "notlar" : "Production du produit",
+
+     "urunuretim" : "1-2 ml- 3ml Arası Üretilebilmektedir.",
+     "urunuretim1" : "Bakalit Kulp kullanılmaktadır." ,
+     "urunuretim2" : "Pfoa İçermez.",
+     "urunuretim3" : "Yanmaz ve Yapışmaz.",
+     "urunuretim4" : "Çizilmeye Karşı Dayanıklıdır." ,
+
+      "renksecenegi" : "Renkler" ,
+     "siyah" : "Siyah",
+
+     "kirmizi" : "Kırmızı",
+
+     "mor" :"Mor" ,
+
+     "pazarlamasorumlusu": "Responsable Marketing National",
+     "satinalmasorumlusu": "Agent Des Achats Et Comptable",
+     "uretimsorumlusu": "Responsable de Production",
+     "yurtdisipazarlama": "Marketing à l'étranger" ,
+       "bankabilgileri" : "Banque informations" ,
+       "bankaadi" : "Banque Prénom" ,
+
+       "ozellikler" : "Caractéristiques du produit",
+       "urunresmi" : "Image Produit" ,
+
+       "urunadii" : "Nom du produit",
+
+
+
+    "yakitfiltresi" : "Filtres à carburant",
+    "yagfiltresi" : "Filtres à huiles",
+    "havafiltresi" : "Filtres à air"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
